@@ -1,4 +1,12 @@
 ## Greetings and Salutations 👋
+I am a graduate student at GaTech. Much of my learning with respect to coding is taking place right now. I typically toss whatever code I have into these repositories as proof of learning or cool thoughts that I had, rather than for fully fledged projects. Hopefully, those will come in the near future.
+
+In the meantime, I suggest you take a look at the groupwork that I have done for some of my courses! I am especially proud of the work that I did using an SVM model. 
+Here are the links to group project repos:
+DMSL Project:
+https://github.com/johnvb21/DMSL_Fraud_Detection
+
+Given the philosophy of my GitHub, I ask for your patience with my orderliness. I am a clean freak, so I am more stressed by the absolute chaos in my repositories than you. Once I get more comfortable with this platform, programming, and projects, I will absolutey psuh more organized repos.
 
 <!--
 **TheAndySebek/TheAndySebek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
