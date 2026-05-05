@@ -1,9 +1,9 @@
 ## Greetings and Salutations 👋
-I am a graduate student at GaTech studying Quantitative Finance (and hopefully Computational Sciences and Engineering). Much of my learning with respect to coding is taking place right now, so my portfolio is a little all over the place. For now, I toss whatever code that I have into these repositories as proof of my learning, rather than pushing fully fledged projects. Hopefully, those will come in the near future.
+I am a graduate student at GaTech studying Quantitative Finance and Computational Sciences and Engineering. Much of my learning with respect to coding is taking place right now, so my portfolio is a little all over the place. For now, I toss whatever code that I have into these repositories as proof of my learning. I hope that, one day, my GitHub will look like that of a lifelong dev, but for now, I am just learning where I can. It is a spartan and academically scrappy approach, but you'd be surprised how far it has gotten me.
 
 Given the philosophy of my GitHub profile, I ask for your patience with my orderliness. I am a clean freak, so I am more stressed by the absolute chaos in my repositories than you. Once I get more comfortable with this platform, programming, and projects, I will absolutey psuh more organized repos.
 
-In the meantime, I suggest you take a look at the groupwork that I have done for some of my courses! I am especially proud of the work that I did using an SVM model. 
+In the meantime, I suggest you take a look at the groupwork that I have done for some of my courses! 
 Here is the link to my DMSL group project repo:
 https://github.com/johnvb21/DMSL_Fraud_Detection
 
